@@ -54,5 +54,6 @@
 ## Live Projects
 
 - [Potato Disease Classification system](https://github.com/shivankursharma018/Potato-Disease-Classification-System-using-Convolutional-Neural-Networks-CNN) : project aimed at developing a deep learning model to accurately classify Late blight and Early blight diseases affecting potato crops.
+- Add text over image - [link](https://shivankursharma018.github.io/shiv-celebrare/assignment1/)
 - [Noddy Bytes](https://shivankursharma018.github.io/NoddyBytes/design.html) : this project was initiated at SRM Builds 3.0 along with team members - [Arpit](https://github.com/Arpitwasnotavaliable), [Ojas](https://github.com/Ojas-Rohatgi)
 - [Personal Website](https://shivankursharma018.github.io/v2/)
